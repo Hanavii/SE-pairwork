@@ -11,8 +11,12 @@
             <input class="td_3"></input>
         </view>
     </view>
-    
 </scroll-view>
+<view class="a">
+  <image src="{{top}}">
+  </image>
+</view>
+<button1 class='{{btn}}' bindtap='click'>{{texts}}</button1>
 <scroll-view class="table" scroll-x="true">
   <view wx:for="{{lists}}" wx:key="{{index}}">
         <view class="tr">

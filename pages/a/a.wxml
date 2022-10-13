@@ -1,0 +1,12 @@
+<view class='c'>
+<image src="../../images/背景图2.jpg"></image>
+</view>
+<view class="text">筛子点数为：{{total}}</view>
+<view class="a">
+  <image src="{{top}}"></image>
+  <image src="{{left}}"></image>
+  <image src="{{right}}"></image>
+</view>
+<button class='{{btn}}' bindtap='click'>{{texts}}</button>
+
+

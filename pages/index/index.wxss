@@ -17,9 +17,12 @@ text2{
 text3{
   font-size: 25px;
 }
+text4{
+  font-size: 25px;
+}
 view{
   font-family: ' SimHei';
-  margin-top: 18px;
+  margin-top: 10px;
   display:flex;    /*设置为flex布局*/
   justify-content: center; /*水平居中*/
 }

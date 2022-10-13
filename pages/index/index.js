@@ -12,4 +12,9 @@ yxgz: function(options){
   wx.navigateTo({
     url: '../yxgz/yxgz', 
   }) },
+  
+a: function(options){
+  wx.navigateTo({
+    url: '../a/a', 
+  }) },
 })

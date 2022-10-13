@@ -1,0 +1,34 @@
+/**index.wxss**/
+.a{
+  width: 400rpx;
+  height: 400rpx;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -70rpx;
+  margin-left: -190rpx;
+ }
+.a image { 
+   width:60px;
+   height:60px;
+}
+button{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+}
+.text{
+  font-family: ' SimHei';
+  
+  display:flex;    /*设置为flex布局*/
+  justify-content: center; /*水平居中*/
+}
+.c{
+  margin-top: 50px;
+  display:flex;    /*设置为flex布局*/
+  justify-content: center; /*水平居中*/
+ }
+ .c image { 
+   width:450rpx;
+   height:450rpx;
+  }

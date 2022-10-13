@@ -1,5 +1,5 @@
 /* pages/yxgz5/yxgz5.wxss */
-image{
+.a image{
   position: fixed;
   height: 100%;
   width: 100%;

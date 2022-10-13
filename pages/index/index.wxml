@@ -11,4 +11,7 @@
 <view>
 <button id="yxgz" bindtap="yxgz" style="margin-top: 7px"><text3>游戏规则</text3></button>
 </view>
+<view>
+<button id="a" bindtap="a" style="margin-top: 7px"><text4>随机三骰</text4></button>
+</view>
 
