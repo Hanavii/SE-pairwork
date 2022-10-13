@@ -1,0 +1,35 @@
+/**index.wxss**/
+.a{
+  margin-top: 25px;
+  display:flex;    /*设置为flex布局*/
+  justify-content: center; /*水平居中*/
+ }
+ .a image { 
+   width:500rpx;
+   height:450rpx;
+  }
+text1{
+  font-size: 50px;
+}
+text2{
+  font-size: 25px;
+}
+text3{
+  font-size: 25px;
+}
+view{
+  font-family: ' SimHei';
+  margin-top: 18px;
+  display:flex;    /*设置为flex布局*/
+  justify-content: center; /*水平居中*/
+}
+.b{
+  position: absolute; /* 相对relative也可以 */
+  right: 0; /* 靠右调节 */
+  margin-top: 30px;
+  margin-right: 30rpx
+ }
+ .b image { 
+   width:70rpx;
+   height:70rpx;
+  }

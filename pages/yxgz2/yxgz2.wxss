@@ -1,0 +1,17 @@
+/* pages/yxgz2/yxgz2.wxss */
+.a image{
+  margin-top: 30px;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
+.b{
+  position: absolute; /* 相对relative也可以 */
+  right: 0; /* 靠右调节 */
+  margin-top: 20px;
+  margin-right: 0rpx
+ }
+ .b image { 
+   width:70rpx;
+   height:70rpx;
+  }

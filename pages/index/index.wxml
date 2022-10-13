@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class='a'>
+<image src="../../images/rw.jpg"></image>
+</view>
+<view>
+<text1>逍遥骰</text1>
+</view>
+<view>
+<button id="start" bindtap="start" style="margin-top: 10px"><text2>开始游戏</text2></button>
+</view>
+<view>
+<button id="yxgz" bindtap="yxgz" style="margin-top: 7px"><text3>游戏规则</text3></button>
+</view>
+

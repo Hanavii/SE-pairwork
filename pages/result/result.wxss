@@ -1,0 +1,39 @@
+/* pages/result/result.wxss */
+.a{
+  position: absolute; /* 相对relative也可以 */
+  left: 0; /* 靠左调节 */
+  margin-top: 40px;
+ }
+.a image { 
+   width:60px;
+   height:70px;
+}
+.b{
+  position: absolute; /* 相对relative也可以 */
+  right: 0; /* 靠右调节 */
+  margin-top: 40px;
+ }
+.b image { 
+   width:140px;
+   height:70px;
+}
+text{
+  font-size: 25px;
+  margin-top: 10px;
+  font-family: ' SimHei';
+}
+view{
+  margin-top: 18px;
+  display:flex;    /*设置为flex布局*/
+  justify-content: center; /*水平居中*/
+}
+.c{
+  margin-top: 50px;
+  display:flex;    /*设置为flex布局*/
+  justify-content: center; /*水平居中*/
+ }
+ .c image { 
+   width:350rpx;
+   height:350rpx;
+  }
+  

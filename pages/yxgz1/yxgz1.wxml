@@ -1,0 +1,8 @@
+<!--pages/yxgz1/yxgz1.wxml-->
+<view class="a">
+<image src="../../images/2.jpg"></image>
+</view>
+<view class="b">
+<button id="next" bindtap="next" style="width:25vw">
+<image src="../../images/箭头向右.jpg"></image>
+</button></view>

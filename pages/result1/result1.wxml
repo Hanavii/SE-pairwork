@@ -1,0 +1,13 @@
+<!--pages/result1/result1.wxml-->
+<view class='c'>
+<image src="../../images/背景图2.jpg"></image>
+</view>
+  <view><text>玩家B胜利！🏆</text></view>
+  <view class="a">
+<button id="index" bindtap="index">
+<image src="../../images/圆角主页无背景.jpg"></image>
+</button></view>
+  <view class="b">
+<button id="start" bindtap="start">
+<image src="../../images/再玩一局无背景.jpg"></image>
+</button></view>

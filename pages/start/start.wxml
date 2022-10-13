@@ -1,0 +1,14 @@
+<!--start.wxml-->
+<view class='a'>
+<image src="../../images/rw.jpg"></image>
+</view>
+<view>
+<text1>逍遥骰</text1>
+</view>
+<view>
+<button id="double" bindtap="double" style="margin-top: 10px"><text2>本地对战</text2></button>
+</view>
+<view>
+<button id="ai" bindtap="ai" style="margin-top: 7px"><text3>人机对决</text3></button>
+</view>
+

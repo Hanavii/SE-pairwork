@@ -1,0 +1,29 @@
+<!--pages/double/double.wxml-->
+<view class="container">
+  <image src='../../images/bj.jpg'></image>
+  <view class='content'>
+    <scroll-view class="table" scroll-x="true">
+      <button  id="result" bindtap="result"  style="width:20vw"><text>A</text></button>
+  <view wx:for="{{lists}}" wx:key="{{index}}">
+        <view class="tr">
+            <input class="td_1"></input>
+            <input class="td_2"></input>
+            <input class="td_3"></input>
+        </view>
+    </view>
+    
+</scroll-view>
+<scroll-view class="table" scroll-x="true">
+  <view wx:for="{{lists}}" wx:key="{{index}}">
+        <view class="tr">
+            <input class="td_1"></input>
+            <input class="td_2"></input>
+            <input class="td_3"></input>
+        </view>
+    </view>
+    <button  id="result1" bindtap="result1"  style="width:20vw "><text>B</text></button>
+</scroll-view>
+  </view>
+</view>
+
+

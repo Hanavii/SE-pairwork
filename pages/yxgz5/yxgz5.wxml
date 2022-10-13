@@ -1,0 +1,8 @@
+<!--pages/yxgz5/yxgz5.wxml-->
+<view class="a">
+<image src="../../images/6.jpg"></image>
+</view>
+<view class="b">
+<button id="return" bindtap="return" style="width:25vw">
+<image src="../../images/主页.jpg"></image>
+</button></view>
